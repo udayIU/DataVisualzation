@@ -1,0 +1,46 @@
+Play Format,Country,Avg Runs Per Wicket Bowling,Avg Runs Per Six Balls Bowling,Number Of Team Innings Bowling,Highest Team Score Bowling,Lowest Completed Score Bowling
+ODI,England,30.41,4.81,738,398,45
+ODI,Australia,27.28,4.69,942,481,45
+ODI,South Africa,27.02,4.75,615,434,43
+ODI,West Indies,29.54,4.69,812,439,43
+ODI,New Zealand,29.86,4.78,763,408,69
+ODI,India,30.74,4.95,974,438,58
+ODI,Pakistan,29.08,4.75,914,444,64
+ODI,Sri Lanka,30.98,4.93,843,414,35
+ODI,Zimbabwe,35.53,5.05,527,418,58
+ODI,Bermuda,35.1,5.29,35,413,91
+ODI,Netherlands,31.37,5.09,80,443,67
+ODI,Bangladesh,34.07,5.1,375,391,44
+ODI,Kenya,34.07,4.94,154,398,69
+ODI,Namibia,32.77,5.21,14,340,81
+ODI,Ireland,30.25,4.98,151,411,91
+ODI,Scotland,31.53,5.1,113,365,63
+ODI,Afghanistan,27.19,4.71,123,417,54
+T20I,England,24.4,8.24,116,248,45
+T20I,Australia,22.37,7.8,124,243,74
+T20I,South Africa,21.45,7.9,121,236,80
+T20I,West Indies,24.13,7.97,124,244,68
+T20I,New Zealand,23.54,8.05,130,245,70
+T20I,India,22.93,7.79,132,245,70
+T20I,Pakistan,20.76,7.33,151,211,60
+T20I,Sri Lanka,23.79,7.85,127,263,39
+T20I,Zimbabwe,27.45,8.22,76,229,75
+T20I,Bermuda,26.19,7.52,15,206,114
+T20I,Netherlands,20.34,7.27,72,252,69
+T20I,Bangladesh,25.74,8.03,94,224,72
+T20I,Kenya,19.64,6.97,38,260,88
+T20I,Namibia,14.22,5.93,16,197,46
+T20I,Ireland,21.26,7.68,94,278,53
+T20I,Scotland,21.78,7.77,62,211,78
+T20I,Afghanistan,21.14,7.43,81,225,56
+Test,England,30.52,2.79,1875,759,26
+Test,Australia,29.44,2.76,1563,903,36
+Test,South Africa,30.22,2.89,806,756,45
+Test,West Indies,32.5,2.83,1004,849,43
+Test,New Zealand,34.62,2.92,776,660,51
+Test,India,34.11,2.85,974,952,79
+Test,Pakistan,32.29,2.95,776,790,53
+Test,Sri Lanka,33.96,3.08,507,765,62
+Test,Zimbabwe,39.26,3.07,186,735,103
+Test,Bangladesh,46.1,3.48,187,730,111
+Test,Ireland,28.1,3.32,6,314,85
